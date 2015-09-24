@@ -1,0 +1,1 @@
+# bewd_resources
