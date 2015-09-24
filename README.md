@@ -51,7 +51,7 @@ Subscriptions
 ----
 | Subscription | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
-| [Ruby Methods Daily](https://github.com/fab/ruby-methods-daily) |             | -                 |
+| [Ruby Methods Daily](https://github.com/fab/ruby-methods-daily) | Receive 3 random methods to your inbox each day. | Documentation can be fun, I promise! RMD allows you to pick up nifty methods as the class progresses. We'll teach you methods you'll need to know in class, but why not discover a few more every day? |
 | [Women Who Code] |             | -                 |
 | [Girl Develop It] |             | -                 |
 | [Meetup] |             | -                 |
