@@ -42,6 +42,8 @@ RailsCasts
 | 393 | [Guest user accounts](https://www.youtube.com/watch?v=nqxvV7upeXE&index=9&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj) | Try before you buy! Or, how to create guest accounts so users may still use your application before deciding to create an account. |
 | 406 | [Public Activity](https://www.youtube.com/watch?v=HggWC4Xtmxg) | Add a user activity feed to your application with the public_activity gem. |
 | N/A | [Friendly_id](https://www.youtube.com/watch?v=WJcqs4C467Y&feature=youtu.be) | Pretty up your urls with the friendly_id gem. |
+| - | - | - |
+| - | - | - |
 
 
 
@@ -53,7 +55,7 @@ Dev Mailing list Subscriptions
 | [Women Who Code](https://www.womenwhocode.com/) | WWC is a non-profit that supports women learning to code. | Helpful ladies helping other ladies! Instant support network and coding events & classes. _Protip: they often provide free or discount codes to dev conferences and workshops for women._ |
 | [Girl Develop It](https://www.girldevelopit.com/) | GDI is another non-profit supporting women learning to code. | Workshops & events for women in tech. |
 | [Meetup](http://www.meetup.com/) | Meet with other developers! | Join Ruby and Ruby on Rails dev meetups in SF. |
-|          |             | -                 |
+| -  | -  | - |
 
 Terminal/Command Line/Bash
 ----
