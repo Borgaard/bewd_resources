@@ -45,15 +45,15 @@ RailsCasts
 |       | -           | 
 
 
-Subscriptions
+Dev Mailinglist Subscriptions
 ----
 | Subscription | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
 | [Ruby Methods Daily](https://github.com/fab/ruby-methods-daily) |             | -                 |
-| [Women Who Code] |             | -                 |
-| [Girl Develop It] |             | -                 |
-| [Meetup] |             | -                 |
-|              |             | -                 |
+| [Women Who Code](https://www.womenwhocode.com/) | WWC is a non-profit that supports women learning to code. | Helpful ladies helping other ladies! Instant support network and coding events & classes. _Protip: they often provide free or discount codes to dev conferences and workshops for women._ |
+| [Girl Develop It](https://www.girldevelopit.com/) | GDI is another non-profit supporting women learning to code. | Workshops & events for women in tech. |
+| [Meetup](http://www.meetup.com/) | Meet with other developers! | Join Ruby and Ruby on Rails dev meetups in SF. |
+|          |             | -                 |
 
 
 Terminal/Command Line/Bash
