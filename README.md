@@ -39,8 +39,23 @@ Gems
 
 RailsCasts
 ----
+| Video | Description |
+| :---- | :---------- |
+| [Polymorphic Associations and Single Table Inheritance](https://www.youtube.com/watch?v=t8I4_8HcMPo) | Single Table Inheritance (STI) can help organize branching logic into separate classes, but a polymorphic association may be a better fit if there are unique database columns. | 
+|       | -           | 
+|       | -           | 
+|       | -           | 
+
 
 Subscriptions
 ----
+| Subscription | Description | Why is it useful? |
+| :----------- | :---------- | :---------------- |
+| [Ruby Methods Daily] |             | -                 |
+| [Women Who Code] |             | -                 |
+| [Girl Develop It] |             | -                 |
+| [Meetup] |             | -                 |
+|              |             | -                 |
+
 
 
