@@ -30,7 +30,7 @@ Gems
 | Gem | Description | Example |
 | :-- | :---------- | :------ |
 | [Google Maps](https://github.com/apneadiving/Google-Maps-for-Rails) for Rails | Map | - |
-| - | - | - |
+| [public_activity](https://github.com/chaps-io/public_activity) | - | - |
 | - | - | - |
 | - | - | - |
 | - | - | - |
@@ -42,7 +42,7 @@ RailsCasts
 | Video | Description |
 | :---- | :---------- |
 | [Polymorphic Associations and Single Table Inheritance](https://www.youtube.com/watch?v=t8I4_8HcMPo) | Single Table Inheritance (STI) can help organize branching logic into separate classes, but a polymorphic association may be a better fit if there are unique database columns. | 
-|       | -           | 
+|  | -           | 
 |       | -           | 
 |       | -           | 
 
@@ -51,7 +51,7 @@ Subscriptions
 ----
 | Subscription | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
-| [Ruby Methods Daily] |             | -                 |
+| [Ruby Methods Daily](https://github.com/fab/ruby-methods-daily) |             | -                 |
 | [Women Who Code] |             | -                 |
 | [Girl Develop It] |             | -                 |
 | [Meetup] |             | -                 |
