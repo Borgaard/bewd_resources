@@ -1,4 +1,4 @@
-Back End Web Development Resources
+Back End Web Development Misc. Resources
 ----
 >What kind of web applications can you make with BEWD?
 
@@ -8,8 +8,6 @@ BEWD covers the fundamentals of web application inner-workings through code, and
 
 APIs
 ----
-
-
 | API | Description | Example |
 | :-- | :---------- | :------ |
 | [Petfinder](https://www.petfinder.com/developers/api-docs) | Matches you with an adoptable dog in your area. | [Found My Hound](https://found-my-hound.herokuapp.com/) |
@@ -58,4 +56,16 @@ Subscriptions
 |              |             | -                 |
 
 
+Terminal/Command Line/Bash
+----
+| Resource | Description | Why is it useful? |
+| :----------- | :---------- | :---------------- |
+| [Command Line Murder Mystery](https://github.com/veltman/clmystery) | Solve a murder mystery in Terminal City while learning command line along the way. | Your terminal/command line/bash may be just text, but you'll quickly find it's one of the most powerful tools you have at the tip of your fingers as a developer. |
+| - | - | - |
 
+Git
+----
+| Resource | Description | Why is it useful? |
+| :----------- | :---------- | :---------------- |
+| [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual ques of commands. | Unsure how version control works? Try creating a visual with your git commands. |
+| - | - | - |
