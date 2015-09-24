@@ -15,12 +15,6 @@ APIs
 | [Google Maps](https://developers.google.com/maps/?hl=en) | Fun way to document your travel experiences and share with friends. | [Best Day](http://best-day.herokuapp.com/) |
 | - | - | - |
 | - | - | - |
-| - | - | - |
-| - | - | - |
-| - | - | - |
-| - | - | - |
-| - | - | - |
-| - | - | - |
 
 
 Gems
@@ -66,5 +60,5 @@ Git
 ----
 | Resource | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
-| [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual ques of commands. | Unsure how version control works? Try creating a visual with your git commands. |
+| [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual cues of commands. | Unsure how version control works? Try creating a visual with your git commands. |
 | - | - | - |
