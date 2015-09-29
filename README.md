@@ -1,10 +1,21 @@
 Back End Web Development Misc. Resources
 ----
+[![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger)
+[![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues)
+[![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls)
+[![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger)
+
 >What kind of web applications can you make with BEWD?
 
 The applications below are examples of what you can create with back end web development, and the APIs used to provide data.
 
 BEWD covers the fundamentals of web application inner-workings through code, and enables you to take data from sources like Spotify, Twilio and Google Maps to create meaningful applications.
+
+
+## Table of Contents
+ - [APIs](#nifty-apis)
+ - [Gems](#gems)
+ - [RailsCasts](#railscasts)
 
 Nifty APIs
 ----
