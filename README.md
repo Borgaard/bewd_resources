@@ -3,7 +3,7 @@
  - [Gems](#gems)
  - [RailsCasts](#railscasts)
  - [Mailing lists](dev-mailing-list-subscriptions)
- - [Terminal](#terminal/command-line/bash)
+ - [Terminal](#terminal-command-line-bash)
  - [Git](#git)
 
 
