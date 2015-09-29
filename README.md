@@ -32,8 +32,8 @@ Handy Gems
 
 RailsCasts
 ----
-| # | Video Topic | Description |
-| - | :---- | :---------- |
+| Episode | Video Topic | Description |
+| ------- | :---------- | :---------- |
 | 394 | [Polymorphic Associations and Single Table Inheritance](https://www.youtube.com/watch?v=t8I4_8HcMPo) | Single Table Inheritance (STI) can help organize branching logic into separate classes, but a polymorphic association may be a better fit if there are unique database columns. |
 | 390 | [Turbolinks](https://www.youtube.com/watch?v=wQ6dIRBKHnM&index=10&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj) | How Turbolinks work in Rails 4 to make your app feel faster |
 | 384 | [Exploring Ruby Gems](https://www.youtube.com/watch?v=h_DEgpdwlV8&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj&index=12) | Should you use a gem? If so, which? How do you decide on a gem? |
