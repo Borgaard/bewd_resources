@@ -3,7 +3,7 @@
  - [Gems](#gems)
  - [RailsCasts](#railscasts)
  - [Mailing lists](dev-mailing-list-subscriptions)
- - [Terminal](#terminal-command-line-bash)
+ - [Terminal](#terminal)
  - [Git](#git)
 
 
@@ -54,7 +54,7 @@ Dev Mailing list Subscriptions
 | [Meetup](http://www.meetup.com/) | Meet with other developers! | Join Ruby and Ruby on Rails dev meetups in SF. |
 |          |             | -                 |
 
-Terminal/Command Line/Bash
+Terminal
 ----
 | Resource | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
