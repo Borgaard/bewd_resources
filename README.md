@@ -30,6 +30,7 @@ Nifty APIs
 
 Handy Gems
 ----
+
 | Gem | Description | Example |
 | :-- | :---------- | :------ |
 | [Google Maps](https://github.com/apneadiving/Google-Maps-for-Rails) for Rails | Map | - |
@@ -42,8 +43,9 @@ Handy Gems
 
 RailsCasts
 ----
-| # | Video Topic | Description |
-| - | :---- | :---------- |
+
+| Episode | Video Topic | Description |
+| :------ | :---------- | :---------- |
 | 394 | [Polymorphic Associations and Single Table Inheritance](https://www.youtube.com/watch?v=t8I4_8HcMPo) | Single Table Inheritance (STI) can help organize branching logic into separate classes, but a polymorphic association may be a better fit if there are unique database columns. |
 | 390 | [Turbolinks](https://www.youtube.com/watch?v=wQ6dIRBKHnM&index=10&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj) | How Turbolinks work in Rails 4 to make your app feel faster |
 | 384 | [Exploring Ruby Gems](https://www.youtube.com/watch?v=h_DEgpdwlV8&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj&index=12) | Should you use a gem? If so, which? How do you decide on a gem? |
@@ -51,6 +53,8 @@ RailsCasts
 | 393 | [Guest user accounts](https://www.youtube.com/watch?v=nqxvV7upeXE&index=9&list=PL4XBVtvKZKqckoz4fQt6T2UuovQj36Nkj) | Try before you buy! Or, how to create guest accounts so users may still use your application before deciding to create an account. |
 | 406 | [Public Activity](https://www.youtube.com/watch?v=HggWC4Xtmxg) | Add a user activity feed to your application with the public_activity gem. |
 | N/A | [Friendly_id](https://www.youtube.com/watch?v=WJcqs4C467Y&feature=youtu.be) | Pretty up your urls with the friendly_id gem. |
+| - | - | - |
+| - | - | - |
 
 
 
@@ -62,7 +66,7 @@ Dev Mailing list Subscriptions
 | [Women Who Code](https://www.womenwhocode.com/) | WWC is a non-profit that supports women learning to code. | Helpful ladies helping other ladies! Instant support network and coding events & classes. _Protip: they often provide free or discount codes to dev conferences and workshops for women._ |
 | [Girl Develop It](https://www.girldevelopit.com/) | GDI is another non-profit supporting women learning to code. | Workshops & events for women in tech. |
 | [Meetup](http://www.meetup.com/) | Meet with other developers! | Join Ruby and Ruby on Rails dev meetups in SF. |
-|          |             | -                 |
+| -  | -  | - |
 
 Terminal/Command Line/Bash
 ----
