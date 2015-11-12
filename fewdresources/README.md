@@ -39,7 +39,7 @@ JavaScript Libraries
 | :------------- | :----------- |
 | [Elevator.js](http://tholman.com/elevator.js/) | Uh oh. Scrolled yourself all the way to the bottom of a webpage? Scrolling back up is for the birds. Use an elevator button. |
 | [less.js](https://github.com/less/less.js/) | Convert your LESS to CSS with this preprocessor. |
-| - | - |
+| [Underscore.js](https://github.com/jashkenas/underscore) | Utility-belt library. It's a common coding challenge to rebuild Underscore's functionality, such as each, map, reduce, and filter. |
 | - | - |
 
 
