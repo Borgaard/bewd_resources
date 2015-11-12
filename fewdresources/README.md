@@ -40,6 +40,8 @@ JavaScript Libraries
 | [Elevator.js](http://tholman.com/elevator.js/) | Uh oh. Scrolled yourself all the way to the bottom of a webpage? Scrolling back up is for the birds. Use an elevator button. |
 | [less.js](https://github.com/less/less.js/) | Convert your LESS to CSS with this preprocessor. |
 | [Underscore.js](https://github.com/jashkenas/underscore) | Utility-belt library. It's a common coding challenge to rebuild Underscore's functionality, such as each, map, reduce, and filter. |
+| [SweetAlert](https://github.com/t4t5/sweetalert) | A beautiful replacement for JavaScript's default alert. |
+| - | - |
 | - | - |
 
 
@@ -81,6 +83,7 @@ Git
 | [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual cues of commands. | Unsure how version control works? Try creating a visual with your git commands. |
 | [Git Kitchen](http://blog.flatironschool.com/git-kitchen-with-chef-ramsay/) with Gordon Ramsay | Gordon Ramsay teaches you git with angry cooking | Excellent analogy of how git works. Highly recommended! |
 | Git for [non-developers](http://anitacheng.com/git-for-non-developers) | An excellent overview of what git is and how to get started with it. | Tired of technical jargon? This guide tends to your human side... |
+| - | - | - |
 | - | - | - |
 
 
