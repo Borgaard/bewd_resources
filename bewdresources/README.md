@@ -1,6 +1,6 @@
 If you've found this readme, please send Nicole cute cat pictures. Thanks!
 
-Please note: the resources listed here are _not part of General Assembly's curriculum_ and should not be considered so. They are entirely independently aggregated materials Nicole finds to be useful to _anyone_ learning web development.
+Please note: the resources listed here are _not part of General Assembly's curriculum_ and should not be considered so. They are entirely independently aggregated materials Nicole finds to be useful to _anyone_ learning web development. You can find the [front-end version here]().
 
 If you'd like to contribute a resource you think is helpful to learning web development, that is _awesome_ :octocat: and I ask that you please submit a pull request.
 
@@ -12,7 +12,7 @@ If you'd like to contribute a resource you think is helpful to learning web deve
  - [Developer Mailing list Subscriptions](#subscriptions)
  - [Terminal](#terminal)
  - [Git](#git)
- - [Readings/Blog posts](#readings)
+ - [Readings and Blog Posts](#readings)
 
 
 RailsCasts
@@ -98,6 +98,7 @@ Git
 | :----------- | :---------- | :---------------- |
 | [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual cues of commands. | Unsure how version control works? Try creating a visual with your git commands. |
 | [Git Kitchen](http://blog.flatironschool.com/git-kitchen-with-chef-ramsay/) with Gordon Ramsay | Gordon Ramsay teaches you git with angry cooking | Excellent analogy of how git works. Highly recommended! |
+| Git for [non-developers](http://anitacheng.com/git-for-non-developers) | An excellent overview of what git is and how to get started with it. | Tired of technical jargon? This guide tends to your human side... |
 | - | - | - |
 | - | - | - |
 
