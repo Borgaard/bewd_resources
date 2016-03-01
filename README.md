@@ -1,10 +1,12 @@
 ## Table of Contents
  - [RailsCasts](#railscasts)
  - [APIs](#nifty-apis)
+ - [JavaScript Libraries](#js-libraries)
  - [Gems](#handy-gems)
  - [Mailing lists](dev-mailing-list-subscriptions)
  - [Terminal](#terminal)
  - [Git](#git)
+ - [Computer Science](#computer-science)
 
 
 RailsCasts
@@ -35,6 +37,12 @@ Nifty APIs
 | - | - | - |
 | - | - | - |
 
+JS-Libraries
+----
+| Library | Description |
+| :------ | :---------- |
+| [Simple Regex](https://github.com/VerbalExpressions/JSVerbalExpressions) | English-ify your regex! |
+| [smoothState.js](https://github.com/miguel-perez/smoothState.js) | Unobtrusive page transitions with jQuery & AJAX |
 
 Handy Gems
 ----
@@ -64,11 +72,19 @@ Terminal
 | :----------- | :---------- | :---------------- |
 | [Command Line Murder Mystery](https://github.com/veltman/clmystery) | Solve a murder mystery in Terminal City while learning command line along the way. | Your terminal/command line/bash may be just text, but you'll quickly find it's one of the most powerful tools you have at the tip of your fingers as a developer. |
 | [zshell](https://github.com/robbyrussell/oh-my-zsh) | Make your terminal easy on the eyes with visual cues and highlighting. | You'll be a happier developer with zshell. Seriously. Highly recommended. |
+| [Dictionary-CLI](https://github.com/joegesualdo/dictionary-cli) | English dictionary from command line. Bonus vocab fetcher module included in README | Quick and easy lookup with `$ def word`. |
 | - | - | - |
-
 Git
 ----
 | Resource | Description | Why is it useful? |
 | :----------- | :---------- | :---------------- |
 | [Visualize Git version control](http://onlywei.github.io/explain-git-with-d3/) | Git has no visual interface, but the concepts are often taught with visual cues of commands. | Unsure how version control works? Try creating a visual with your git commands. |
+| - | - | - |
+
+
+Computer Science
+----
+| Resource | Description | Why is it useful? |
+| :------- | :---------- | :---------------- |
+| [Gif] [Search trees](http://i.imgur.com/PeByxQ6.gifv) | Binary search vs. Sequential search | Speed matters. The methods you use in your application make a difference over the long run in larger applications. |
 | - | - | - |
